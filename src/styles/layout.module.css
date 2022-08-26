@@ -3,8 +3,18 @@
     border: 2px;
     border-radius: 5px;
     border-style: dotted;
+
 }
+
+.ContentHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .header a {
     background-color: aqua;
-    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
 }

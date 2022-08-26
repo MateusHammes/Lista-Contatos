@@ -1,5 +1,6 @@
 
 import Layout from "../../Components/Layout"
+import Link from "next/link"
 
 export default function Registration() {
     return (<div>
@@ -9,6 +10,7 @@ export default function Registration() {
                 <div>
                     <p>Conteudo da pagina de registro</p>
                 </div>
+
             </div>
         </Layout>
     </div>
