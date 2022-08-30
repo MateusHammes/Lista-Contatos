@@ -1,7 +1,7 @@
 
-import Layout from "../../components/Layout";
+import Layout from "../components/Layout";
 import React, { useState } from 'react';
-import Input from "../../components/Input";
+import Input from "../components/Input";
 import Style from "../../styles/form.module.css"
 
 

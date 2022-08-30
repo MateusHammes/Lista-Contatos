@@ -1,6 +1,6 @@
 
 
-import Layout from "../../Components/Layout"
+import Layout from "../Components/Layout"
 
 export async function getStaticPaths() {
     return {
