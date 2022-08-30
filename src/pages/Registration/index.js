@@ -1,5 +1,5 @@
 
-import Layout from "../Components/Layout"
+import Layout from "../../components/Layout"
 import Link from "next/link"
 import Contato from "../../core/Contato.js"
 
